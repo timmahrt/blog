@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Huandao Cycling Trip
+permalink: /huandao/
 ---
 
 # Taiwan Huandao 2024

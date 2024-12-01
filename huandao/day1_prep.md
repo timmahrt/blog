@@ -15,8 +15,6 @@ When I left Japan, I had two things I needed to get before picking up my rental 
 - a travel sim card for my phone
 - some cycling clothes
 
-<img src="/images/2021-12-29/praatio_pr_summary.png" width="600px">
-
 <figure>
   <img src="/images/huandao/day1_prep/taipei_main_station_5am.jpg" loading="lazy">
   <figcaption>Taipei Main Station at 5am</figcaption>
