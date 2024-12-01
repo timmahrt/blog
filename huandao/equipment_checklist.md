@@ -1,3 +1,8 @@
+---
+layout: page
+title: Huandao Equipment Checklist
+---
+
 # Taiwan Huandao 2024
 
 ## Equipment checklist

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Huandao Cycling Trip Preparation
+---
+
 # Taiwan Huandao 2024
 
 ## Day 1 Before departure
