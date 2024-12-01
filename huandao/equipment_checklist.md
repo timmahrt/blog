@@ -1,5 +1,6 @@
 ---
 layout: null
+hidden: true
 title: Huandao Equipment Checklist
 ---
 

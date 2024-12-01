@@ -1,5 +1,6 @@
 ---
 layout: null
+hidden: true
 title: Huandao Cycling Trip Preparation
 ---
 
